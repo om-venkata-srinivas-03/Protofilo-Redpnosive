@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-name {
+    font-size: 30px;
+    padding-top: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    border-color: #4b6cc1;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.image {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.nav-heading {
+    color: white !important;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.bg-cont {
+    background-color: #191a1d;
+    height: 120vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 43px;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+
+.color-heading {
+    color: #4b6cc1;
+    font-size: 43px;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 25px;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+
+.contant-button {
+    height: 50px;
+    width: 135px;
+    border-radius: 10px;
+    background-color: #4b6cc1;
+    color: #ffffff;
+    font-family: "Roboto";
+    border: none;
+}
+
+.background-color {
+    background-color: #323f4b;
+}
+
+.facts-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.about-heading {
+    color: #ffffff;
+}
+
+.photo {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.para-descriptional {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.bacground-second-color {
+    background-color: #1f2933;
+}
+
+.card-container {
+    background-color: #323f4b;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card-img {
+    height: 60px;
+    width: 60px;
+}
+
+.card-heading {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.bg-color-container {
+    background-color: #3e4c59;
+}
+
+.protfolio-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.projects-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.main-contents {
+    background-color: #323f4b;
+    border-radius: 5px;
+}
+
+.web-para {
+    color: #9aa5b1;
+}
+
+.happy-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.para-desc {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+.read-link {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.icon-arrow {
+    font-size: 12px;
+    margin-left: 4px;
+}
+
+.bg-container5 {
+    background-color: #52606d;
+}
+
+.ser-heading5 {
+    color: #cced00;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.wht-para5 {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.card-desc5 {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+
+.images5 {
+    width: 50px;
+}
+
+.static-heading5 {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.static-para5 {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.bg-container {
+    background-color: #1f2933;
+    height: 100vh;
+    background-size: cover;
+}
+
+.Test-heading {
+    color: #cced00;
+    font-size: 22px;
+}
+
+.member-para {
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.bg-cards-carousels {
+    background-color: #323f4b;
+}
+
+#left-icon {
+    margin-top: 40px;
+    margin-left: 75%;
+}
+
+#right-icon {
+    margin-top: 40px;
+}
+
+.image-courosel {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.carousel-paragraph {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.desecription {
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.bg-jenny-container {
+    background-color: #0d2436;
+}
+
+.image-profile {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.profil-name {
+    color: #cced00;
+    font-size: 23px;
+}
+
+.fronted-pargraph {
+    color: #9aa5b1;
+    font-size: 14px;
+}
+
+.icon-gadjects {
+    color: #5a7184;
+    padding-right: 8px;
+    font-size: 18px;
+}
+
+.backgroound-color {
+    background-color: #001c32;
+}
